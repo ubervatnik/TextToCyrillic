@@ -26,5 +26,5 @@ you can also download it, i don't care do whatever you want
 > to use TextToCyrillic just see the gif below
 
 
-![](https://github.com/ubervatnik/TextToCyrillic/blob/874a97c7505c7e6c98a65401fce3db6855176860/usage.gif)
+<img src="usage.gif" style="height: 150px; width: 350px"/>
 
