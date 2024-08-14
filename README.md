@@ -18,6 +18,6 @@
 > 
 > [Python](https://www.python.org/)
 
-Go on python and paste the code
+Go on python and paste the code found on text_to_kyrillic.py
 
 
