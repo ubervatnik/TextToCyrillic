@@ -23,8 +23,14 @@ go on python and paste the code found on `text_to_kyrillic.py`
 you can also download it, i don't care do whatever you want
 
 > [!NOTE]
-> to use TextToCyrillic just see the gif below
+> to use TextToCyrillic just see the gif below, or see the text tutorial
 
 
 <img src="usage.gif" style="height: 150px; width: 350px"/>
 
+
+**TEXT TUTORIAL**
+
+head over to the line where it says `# configuration`
+
+there you will see `"your text"` change it to whatever word you want to display in cyrillic
