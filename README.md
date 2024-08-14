@@ -9,6 +9,9 @@
 
 - Very useful if you can speak Slavic but only can write in latinized letters
 
+> [!NOTE]
+> this does not translate your text, only displays them in cyrillic
+
 ## how to use it
 
 **requirements:**
