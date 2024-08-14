@@ -18,6 +18,12 @@
 > 
 > [Python](https://www.python.org/)
 
-Go on python and paste the code found on text_to_kyrillic.py
+go on python and paste the code found on `text_to_kyrillic.py`
+
+you can also download it, i don't care do whatever you want
+
+> [!NOTE]
+> to use TextToCyrillic just see the gif below
+
 
 
