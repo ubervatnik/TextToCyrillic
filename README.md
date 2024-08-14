@@ -14,6 +14,10 @@
 
 ## how to use it
 
-**requirements:**
+> **requirements:**
+> 
+> [Python](https://www.python.org/)
+
+Go on python and paste the code
 
 
